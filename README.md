@@ -52,9 +52,5 @@ venv\Scripts\activate        # Windows
 pip install -r requirements.txt
 ```
 
-## Team
 
-- **[Your name]** — Data pipeline, EDA, model training (RF, XGBoost, CatBoost), ensembling, evaluation
-- **[Partner's name]** — Backend API, frontend, integration, deployment
-# online-purchase-prediction
 
